@@ -5,6 +5,7 @@ permalink: /reactjs/
 ---
 
 Some good examples of ReactJS example repositories.
+- [React posts](https://dev.to/t/react)
 ## Links
 
 - ReactJS Development Helper tools
@@ -14,9 +15,8 @@ Some good examples of ReactJS example repositories.
     - [The React Framework for B2B Apps](https://marmelab.com/react-admin/) 
     - [Demo The React Framework for B2B Apps](https://marmelab.com/react-admin/Demos.html) 
 - ReactJS examples
-    - [Dracula syntax theme](https://github.com/evrone/go-clean-template)
-    - [.NET LINQ capabilities in Go](https://github.com/ahmetb/go-linq)
-- Miscellaneous
+    - 
+- React Design Libraries
     - [Build your component library with ShadCN UI](https://ui.shadcn.com/)
     - [React Spectrum Libraries](https://react-spectrum.adobe.com/react-spectrum/index.html)
     - [Craft world-class accessible components with custom styles.](https://react-spectrum.adobe.com/react-aria/index.html)
@@ -26,6 +26,7 @@ Some good examples of ReactJS example repositories.
     - [Tailwind UI COmponents](https://tailwindcss.com/plus)
     - [Build fully functional accessible web applications faster than ever – Mantine](https://mantine.dev/)
     - [MUI](https://mui.com/)
+- Miscellaneous
 - More coming....
 
-Find more repositories [here](https://github.com/explore).
+Find more repositories [here](https://github.com/topics/react).

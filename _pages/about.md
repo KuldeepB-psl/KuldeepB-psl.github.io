@@ -4,26 +4,19 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+## Links
+- Some informational links
+    - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
+    - [The coder cafe](https://www.thecoder.cafe/t/coding)
+    - [Mission Critical Distribution systems](https://zeroc.com/)
+    - [Fintech](https://dev.to/jenya__go/building-a-marketplace-and-fintech-app-a-developers-guide-to-user-engagement-and-metrics-1ddo)
+- AWS
+    - [Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs)
+- Second Money Resource
+    - [Financial Breakdown of $16k in Video Course Sales](https://indiecourses.com/blog/financial-breakdown-of-selling-a-video-course)
+- Innovations
+    - [Automate your Windows computer in JS or Python](https://github.com/mediar-ai/terminator)
+    - [Immediate mode GUI library](https://www.egui.rs/)
 
-## Features
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
